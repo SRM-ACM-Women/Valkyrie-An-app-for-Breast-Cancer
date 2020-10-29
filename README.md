@@ -1,6 +1,6 @@
 # valkyrie
 https://youtu.be/pb5i1ogycEU
-A Flutter application.
+
 
 Inspiration
 The best protection is early detection. We aim to focus on providing care to potential patients and to enhance the general welfare of millions of women around the world.What it does
