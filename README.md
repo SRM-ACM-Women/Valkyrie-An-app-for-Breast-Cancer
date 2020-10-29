@@ -1,5 +1,5 @@
 # valkyrie
-https://youtu.be/pb5i1ogycEU
+ About the app: https://youtu.be/pb5i1ogycEU
 
 
 Inspiration
@@ -14,3 +14,5 @@ The best protection is early detection. We aim to focus on providing care to po
 We built it using Flutter and Android Studio. We also used Collected data from google images, Google colab, python, and TensorFlow for the AI model.Challenges we ran into
 This being our first-ever hackathon, we came across a lot of new things. Apart from teamwork, we learned how an app for our case comes together. The many changes we needed to make before all of us were completely satisfied. We didn't have proper datasets to work with and faced issues initially but the four of us managed and have left scope open for it in the futureWhat's next for Valkyrie
 With better datasets, questionnaires with better medical details, and tie-ups with hospitals, we look forward to having an even more reliable app.
+
+We've also prepared an AI model which we're looking to incorporate in our app. The model is a cnn based binary classifier which predicts the input image to be benign or malignant. Due to the low availability of data our model might not be perfect rightnow but we're what we're looking at is a lot of scope for improvement.
